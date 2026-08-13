@@ -126,14 +126,6 @@ YOUR-VERCEL-LINK-HERE
 
 ---
 
-📸 Screenshots
-
-Add screenshots of your application here after uploading them to your repository.
-
-![Weather App](screenshots/weather-app.png)
-
----
-
 🤖 Future Improvements — AI Integration
 
 This project is currently a traditional weather application, but the long-term goal is to transform it into an AI-powered weather assistant.
