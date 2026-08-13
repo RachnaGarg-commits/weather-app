@@ -256,7 +256,7 @@ Interested in Web Development, Software Development and AI.
 Connect With Me
 
 - GitHub: https://github.com/RachnaGarg-commits
-- LinkedIn: https://www.linkedin.com/in/rachna-garg-321994363
+- LinkedIn: https://www.linkedin.com/in/rachna-garg-321994363?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
