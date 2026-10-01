@@ -89,10 +89,6 @@ The project uses the following environment variable:
 
 WEATHER_API_KEY
 
-This variable should be configured in your Vercel project settings.
-
-«⚠️ Never commit your API key directly to GitHub.»
-
 ---
 
 🚀 Run Locally
@@ -122,7 +118,7 @@ Open the local URL provided by Vercel in your browser.
 🌐 Live Demo
 
 🔗 Live Website:
-YOUR-VERCEL-LINK-HERE
+weather-app-pied-eta-90.vercel.app
 
 ---
 
@@ -246,9 +242,7 @@ The goal of this project is to evolve from a simple weather application into an 
 ---
 
 👩‍💻 Author
-
 Rachna Garg
-
 B.Tech CSE Student
 
 Interested in Web Development, Software Development and AI.
