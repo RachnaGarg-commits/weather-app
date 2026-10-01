@@ -118,7 +118,7 @@ Open the local URL provided by Vercel in your browser.
 🌐 Live Demo
 
 🔗 Live Website:
-weather-app-pied-eta-90.vercel.app
+https://weather-app-pied-eta-90.vercel.app
 
 ---
 
